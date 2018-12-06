@@ -1,7 +1,7 @@
 // BASIC SOLUTION
 // const isLeap = (year) => {
-//     if (year % 4 == 0) {
-//         if (year % 100 == 0 && year % 400 !== 0) {
+//     if (year % 4 === 0) {
+//         if (year % 100 === 0 && year % 400 !== 0) {
 //             return false;
 //         } else {
 //             return true;
@@ -11,11 +11,10 @@
 //     }
 // };
 
-// INTERMEDIATE SOLUTION
+// INTERMEDIATE SOLUTION (REFACTORED)
 export const isLeap = (year) => {
-    return year % 100 == 0 && year % 400 !== 0
-        ? false
-        : year % 4 == 0 ? true : false
+    return year % 100 === 0 && year % 400 !== 0
+        ? false : year % 4 === 0
 };
 
 // LOCAL TESTS
