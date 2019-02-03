@@ -4,7 +4,7 @@ This repository contains solution samples to problems on the [Exercism.io](https
 
 ## Contributions
 
-These solutions are my own work.
+The base solutions are my own work, whereas, the tests (i.e *.spec.js files) are from the Exercism.io.
 
 ## Authors
 

@@ -23,5 +23,5 @@ export const age = (planet, seconds) => {
   // 3. if planet exists, calculate the age in earth years
   return planetDivisors[planet]
     ? Math.round((seconds / earthSeconds / planetDivisors[planet]) * 100) / 100
-    : `${planet} not a valid planet`
+    : `${planet} not a valid planet`;
 };
