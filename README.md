@@ -3,7 +3,7 @@
 This repository contains solution samples to problems on the [Exercism.io](https://exercism.io/my/tracks/javascript) JavaScript track.  
 
 ## Table of Contents
-| Problem Set       | Difficulty        | Topics          |
+| **Problem Set**       | **Difficulty**        | **Topics**          |
 | :---------------- | :---------------- | :-------------- |
 | [Leap](https://github.com/jenningst/exercism-solutions/tree/master/leap) | Novice | Booleans |
 | [Darts](https://github.com/jenningst/exercism-solutions/tree/master/darts) | Novice |  |
