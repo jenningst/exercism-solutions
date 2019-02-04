@@ -5,8 +5,9 @@ This repository contains solution samples to problems on the [Exercism.io](https
 ## Table of Contents
 | **Problem Set**       | **Difficulty**        | **Topics**          |
 | :---------------- | :---------------- | :-------------- |
-| [Leap](https://github.com/jenningst/exercism-solutions/tree/master/leap) | Novice | Booleans |
 | [Darts](https://github.com/jenningst/exercism-solutions/tree/master/darts) | Novice |  |
+| [Gigasecond](https://github.com/jenningst/exercism-solutions/tree/master/gigasecond) | Novice | Date/Time |
+| [Leap](https://github.com/jenningst/exercism-solutions/tree/master/leap) | Novice | Booleans |
 | [Reverse String](https://github.com/jenningst/exercism-solutions/tree/master/reverse-string) | Novice | Loops |
 | [RNA Transcription](https://github.com/jenningst/exercism-solutions/tree/master/rna-transcription) | Novice | Strings, Transforming |
 | [Space Age](https://github.com/jenningst/exercism-solutions/tree/master/space-age) | Novice | Strings, Transforming |
@@ -15,7 +16,3 @@ This repository contains solution samples to problems on the [Exercism.io](https
 ## Contributions
 
 The base solutions are my own work. All tests (i.e *.spec.js files) were provided by Exercism.io.
-
-## Authors
-
-* **Troy Jennings** - [jenningst](https://github.com/jenningst)
